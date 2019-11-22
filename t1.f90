@@ -28,5 +28,5 @@ program main
       write(*,*) "character:",s
       write(*,*) "chacter(len=10):",sa
       write(*,*) "logical:",g
-      write(*,*) "2222222222"
+      write(*,*) "3333333333333333"
 endprogram
