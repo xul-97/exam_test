@@ -13,7 +13,7 @@ program main
       d = 1.2d0
       d2 = 1.3d0
       s = "sa"
-      sa = "sa"
+      s = 'sa'
       sa = "sa"
       g = .TRUE.
 
