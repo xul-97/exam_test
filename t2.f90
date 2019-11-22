@@ -3,7 +3,7 @@ program main
 
       type :: person_type
               character(len = 12) :: name = ''
-              character(len = 2) :: sex
+              character(len = 4) :: sex
               integer :: age
       endtype person_type
 
